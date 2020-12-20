@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/piston",
+    "textures": {
+        "bottom": "blockbreaker:blocks/block_breaker_bottom",
+        "side": "blockbreaker:blocks/block_breaker_side",
+        "platform": "blockbreaker:blocks/block_breaker_top"
+    }
+}
